@@ -11,7 +11,6 @@ print(str(pi)[n+1])
 ## 2 f683
 
 ```py
-2 c554
 s = input()
 print(s[0] + 'o' + s[2:])
 ```
