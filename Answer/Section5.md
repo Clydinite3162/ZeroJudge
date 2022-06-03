@@ -4,6 +4,9 @@
 
 ```py
 print(eval(input().replace('/', '//')))
+```
+
+```py
 # @Eason
 n1, op, n2 = input().split()
 if op == '+':
